@@ -166,3 +166,8 @@
 [url "git://gist.github.com/"]
 
     insteadOf = "gist:"
+
+[user]
+    name = Nik Malhotra
+    email = nmal@me.com
+    username = mvlhotra
